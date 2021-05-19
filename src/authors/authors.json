@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Leonardo",
+    "surname": "Vezzati",
+    "email": "leonardo.vezzati@gmail.com",
+    "date of birth": "05/08/1994"
+  },
+  {
+    "name": "Pippo",
+    "surname": "Pippus",
+    "email": "pippo@gmail.com",
+    "date of birth": "05/08/1994"
+  },
+  {
+    "name": "Pluto",
+    "surname": "Plutus",
+    "email": "pluto@gmail.com",
+    "date of birth": "05/08/1994"
+  },
+  {
+    "name": "Paperino",
+    "surname": "Paperinus",
+    "email": "paperino@gmail.com",
+    "date of birth": "05/08/1994"
+  },
+  {
+    "name": "Qui",
+    "surname": "Paperinus",
+    "email": "qui@gmail.com",
+    "date of birth": "05/08/1994"
+  }
+]
